@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(161, 216, 198);
+    border: 4px solid black;
+}
+h1{
+    text-align: center;
+}
+h1,h2{
+    text-decoration: underline;
+}
+.abc{
+    text-align: center;
+}
